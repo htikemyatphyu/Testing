@@ -1,0 +1,79 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 100svh;
+    margin: 0 auto;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.statusbar{
+    padding: 15px;
+    background: white;
+    color: white;
+}
+
+h1{
+font-size: 20px;
+padding: 10px;
+}
+
+p, textarea{
+font-size: 23px;
+}
+
+textarea{
+    width: 40%;
+    padding: 15px;
+    height: 180px;
+    border: 3px solid rgb(122, 183, 251)!important ;
+
+}
+
+p{
+     -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+}
+
+#playAgain{
+    display: none;
+}
+
+.bar{
+background-color: #009ff3;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: white;
+text-align: center;
+}
+
+.timeInterval{
+    text-align: center;
+}
+
+#gameStatus{
+    display: none;
+}
+
+.alert{
+    margin: 0px;
+}
+
+h3{
+    background-color: #ccda46;
+width: 150px;
+height: 70px;
+display: block;
+margin: auto;
+border-radius: 12%;
+}
+
+
+
+
