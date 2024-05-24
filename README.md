@@ -1,4 +1,4 @@
 # List of games added:
 * Snake
 * Pacman
-* Typing game
+* Typing game (written in HTML)
